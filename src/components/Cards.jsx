@@ -20,6 +20,7 @@ const Cards=()=>{
                         <li>Limited marketplace exposure</li>
                         <li>10% fee per transaction</li>
                     </ul>
+                    
                 </div>
                 <section className="card">
                 <img src="./assets/icon-paid.svg" alt={"icon free svg"} />
